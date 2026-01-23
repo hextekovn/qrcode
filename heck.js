@@ -156,7 +156,7 @@ function getCaption() {
 
   return `
 📡 [THÔNG TIN TRUY CẬP]
-
+🥷🏻Trần Khôi (HEXTEKO)
 🕒 Thời gian: ${info.time}
 📱 Thiết bị: ${info.device}
 🖥️ Hệ điều hành: ${info.os}
